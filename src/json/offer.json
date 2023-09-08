@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0",
+    "image": "/offer/image_bigOffer_1.png",
+    "description": "Imagem 01"
+  },
+  {
+    "id": "1",
+    "image": "/offer/image_bigOffer_2.png",
+    "description": "Imagem 02"
+  },
+  {
+    "id": "2",
+    "image": "/offer/image_bigOffer_3.png",
+    "description": "image 03"
+  },
+  {
+    "id": "3",
+    "image": "/offer/image_bigOffer_2.png",
+    "description": "Imagem 03"
+  },
+  {
+    "id": "4",
+    "image": "/offer/image_bigOffer_3.png",
+    "description": "image 04"
+  }
+
+
+]
