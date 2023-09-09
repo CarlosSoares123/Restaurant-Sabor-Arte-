@@ -3,6 +3,7 @@ import * as G from '../../../../styledGlobal.ts'
 
 import cardData from '../../../../json/card_favorite.json'
 import { useEffect, useState } from 'react';
+import { Swiper, SwiperSlide } from 'swiper/react';
 
 interface Product {
   id: number;
@@ -44,15 +45,16 @@ export const Day = () => {
         Dish of the day
       </G.title>
 
-      <D.card_container
+    <D.CardContainer>
+      <Swiper
       spaceBetween={35}
       slidesPerView={view}
       pagination={{clickable:true}}
-
       >
         {cardData.map((product: Product) => {
           return(
-            <D.card>
+            <SwiperSlide>
+            <D.Card>
               <D.figure>
                 <img src={product.image} alt="#" />
               </D.figure>
@@ -62,10 +64,12 @@ export const Day = () => {
                 <p className='description'>{product.description}</p>
                 <div className='price'><span>$</span>{product.price}</div>
               </D.content>
-            </D.card>
+            </D.Card>
+            </SwiperSlide>
           )
         })}
-      </D.card_container>
+      </Swiper>
+      </D.CardContainer>
       
     </D.DayContainer>
   )

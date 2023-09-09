@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Swiper, SwiperSlide } from 'swiper/react';
+
 
 export const DayContainer = styled.section`
   width: 100%;
@@ -8,7 +8,7 @@ export const DayContainer = styled.section`
   flex-direction: column;
   gap: 15px;
 `
-export const card_container = styled(Swiper)`
+export const CardContainer = styled.div`
   width: 100%;
   height: 100%;
   
@@ -27,7 +27,7 @@ export const card_container = styled(Swiper)`
   }
 `
 
-export const card = styled(SwiperSlide)`
+export const Card = styled.div`
   width: 100%;
   height: 100%;
   border-radius: 10px;
