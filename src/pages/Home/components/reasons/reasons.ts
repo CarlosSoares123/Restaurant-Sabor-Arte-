@@ -43,19 +43,18 @@ export const text = styled.div`
   
 `
 export const lista = styled.ul`
-  
   padding-top: 10px;
-  background-color: pink;
   .item{
     display: flex;
     flex-direction: column;
     gap:15px;
-    @media (min-width: 992px) {
-      display: flex;
-  }
     @media (min-width: 1200px) {
     width: 600px;
+    
   }
+  }
+  @media (min-width: 992px) {
+      display: flex;
   }
 `
 export const item = styled.li`
