@@ -16,35 +16,35 @@ import 'swiper/css/scrollbar'
 const client = [
   {
     id: 0,
-    image: "/face/02.jpg",
+    image: "/homeImg/face/02.jpg",
     name: "Carlos Soares",
     testimonial: "Also very good and so was the service. I had the mushroom risotto with scallops which was awesome. My wife had a burger over greens ..."
   },
 
   {
     id: 1,
-    image: "/face/01.jpg",
+    image: "/homeImg/face/01.jpg",
     name: "Carlos Soares",
     testimonial: "Also very good and so was the service. I had the mushroom risotto with scallops which was awesome. My wife had a burger over greens ..."
   },
 
   {
     id: 2,
-    image: "/face/03.jpg",
+    image: "/homeImg/face/03.jpg",
     name: "Carlos Soares",
     testimonial: "Also very good and so was the service. I had the mushroom risotto with scallops which was awesome. My wife had a burger over greens ..."
   },
 
   {
     id: 3,
-    image: "/face/04.jpg",
+    image: "/homeImg/face/04.jpg",
     name: "Carlos Soares",
     testimonial: "Also very good and so was the service. I had the mushroom risotto with scallops which was awesome. My wife had a burger over greens ..."
   },
 
   {
     id: 4,
-    image: "/face/05.jpg",
+    image: "/homeImg/face/05.jpg",
     name: "Carlos Soares",
     testimonial: "Also very good and so was the service. I had the mushroom risotto with scallops which was awesome. My wife had a burger over greens ..."
   },

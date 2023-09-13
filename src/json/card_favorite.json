@@ -4,28 +4,28 @@
     "name": "Produto 1",
     "description": "Descrição do Produto 1...",
     "price": 99.99,
-    "image": "/favorite/01.jpg"
+    "image": "/homeImg/favorite/01.jpg"
   },
   {
     "id": 2,
     "name": "Produto 2",
     "description": "Descrição do Produto 2...",
     "price": 32.9,
-    "image": "/favorite/02.jpg"
+    "image": "/homeImg/favorite/02.jpg"
   },
   {
     "id": 3,
     "name": "Produto 3",
     "description": "Descrição do Produto 3...",
     "price": 99,
-    "image": "/favorite/03.jpg"
+    "image": "/homeImg/favorite/03.jpg"
   },
   {
     "id": 4,
     "name": "Produto 4",
     "description": "Descrição do Produto ...",
     "price": 64.2,
-    "image": "/favorite/04.jpg"
+    "image": "/homeImg/favorite/04.jpg"
   }
 
 ]

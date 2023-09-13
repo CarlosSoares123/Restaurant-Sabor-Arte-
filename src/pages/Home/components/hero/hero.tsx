@@ -2,10 +2,10 @@ import * as H from './hero'
 import * as G from '../../../../styledGlobal.ts'
 
 // Images
-import food0 from '/png/p1.png'
-import food1 from '/png/p2.png'
-import food2 from '/png/p3.png'
-import food3 from '/png/p4.png'
+import food0 from '/homeImg/png/p1.png'
+import food1 from '/homeImg/png/p2.png'
+import food2 from '/homeImg/png/p3.png'
+import food3 from '/homeImg/png/p4.png'
 
 export const Hero = () => {
   return (

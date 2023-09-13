@@ -1,13 +1,13 @@
 import * as R from './restaurant'
 import * as G from '../../../../styledGlobal'
 
-import img from '/restaurant/r1.jpg'
-import img2 from '/restaurant/r2.jpg'
-import img3 from '/restaurant/r3.jpg'
+import img from '/homeImg/restaurant/r1.jpg'
+import img2 from '/homeImg/restaurant/r2.jpg'
+import img3 from '/homeImg/restaurant/r3.jpg'
 
-import icon1 from '/icon/icon4.png'
-import icon2 from '/icon/icon2.png'
-import icon3 from '/icon/icon6.png'
+import icon1 from '/homeImg/icon/icon4.png'
+import icon2 from '/homeImg/icon/icon2.png'
+import icon3 from '/homeImg/icon/icon6.png'
 
 export const Restaurant = () => {
   return(

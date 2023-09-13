@@ -4,19 +4,19 @@ import * as G from '../../../../styledGlobal'
 const card_why = [
   {
     id: "1",
-    image: "/icon/icon1.png" ,
+    image: "/homeImg/icon/icon1.png" ,
     title: "Passionate Chefs",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, unde."
   },
   {
     id: "2",
-    image: "/icon/icon2.png" ,
+    image: "/homeImg/icon/icon2.png" ,
     title: "Passionate Chefs",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, unde."
   },
   {
     id: "3",
-    image: "/icon/icon3.png" ,
+    image: "/homeImg/icon/icon3.png" ,
     title: "Passionate Chefs",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, unde."
   }

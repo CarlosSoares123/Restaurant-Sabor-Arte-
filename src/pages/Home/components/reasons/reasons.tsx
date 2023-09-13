@@ -1,8 +1,8 @@
 import * as R from './reasons.ts'
 import * as G from '../../../../styledGlobal.ts'
 
-import img from '/reasons/r1.jpg'
-import img1 from '/reasons/r2.jpg'
+import img from '/homeImg/reasons/r1.jpg'
+import img1 from '/homeImg/reasons/r2.jpg'
 
 export const Reasons = () => {
   return(
